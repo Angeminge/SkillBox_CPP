@@ -1,0 +1,3 @@
+/home/angeminge/CPP/1/build/CMakeFiles/rebuild_cache.dir
+/home/angeminge/CPP/1/build/CMakeFiles/edit_cache.dir
+/home/angeminge/CPP/1/build/CMakeFiles/lesson4.dir
